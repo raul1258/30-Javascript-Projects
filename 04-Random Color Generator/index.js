@@ -35,4 +35,3 @@ function addColor () {
         e.innerHTML = newColor;
     });
 }
-Footer
