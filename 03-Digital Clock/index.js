@@ -23,4 +23,3 @@ if(seconds < 10){
 }
 time.textContent = hours + ":" + minutes + ":" + seconds + " " +dayNight;
 });
-// console.log('rahul')
